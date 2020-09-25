@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "vueserverlessproject8f2b2334": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "contentSource": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vueserverlessproject-dev-153719-authRole",
+      "UnauthRoleArn": "arn:aws:iam::274940837738:role/amplify-vueserverlessproject-dev-153719-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::274940837738:role/amplify-vueserverlessproject-dev-153719-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vueserverlessproject-dev-153719-deployment",
+      "UnauthRoleName": "amplify-vueserverlessproject-dev-153719-unauthRole",
+      "StackName": "amplify-vueserverlessproject-dev-153719",
+      "StackId": "arn:aws:cloudformation:us-east-1:274940837738:stack/amplify-vueserverlessproject-dev-153719/bfdf1ab0-fea5-11ea-94df-12dace8e8b83",
+      "AmplifyAppId": "d1osa8fargl689"
+    },
+    "categories": {
+      "auth": {
+        "vueserverlessproject8f2b2334": {}
+      }
+    }
+  }
+}
